@@ -11,7 +11,7 @@
 <h2>🚀 Now</h2>
 <ul>
   <li>New account (the previous one was deactivated); re‑uploading projects and case studies.</li>
-  <li>Open to UX/UI Design, Design Engineer with AI or Fullstack AI Developer roles in a remote, international model.</li>
+  <li>Open to UX/UI Design, Design Engineer with AI or Full stack AI Developer roles in a remote, international model.</li>
 </ul>
 
 <h3>📬 Contact</h3>
