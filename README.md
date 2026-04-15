@@ -1,5 +1,5 @@
 <!-- README Profile (GitHub-safe HTML, concise) -->
-<h1>👋🏼 Hi, I'm Gabriel Moreira — UX/UI · Design Engineer · Full Stack AI Developer</h1>
+<h1>👋🏼 Hi, I'm Gabriel Moreira — UX/UI · Full Stack AI Developer</h1>
 <p>🇧🇷 React & JavaScript · I use AI daily to code (LLMs in the development loop)</p>
 
 <h2>✨ About</h2>
