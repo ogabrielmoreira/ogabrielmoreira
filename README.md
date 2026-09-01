@@ -1,5 +1,5 @@
 <!-- README Profile (GitHub-safe HTML, concise) -->
-<h1>Gabriel Moreira — Design Engineer</h1>
+<h1>Gabriel Moreira — Senior Product Designer</h1>
 <p>São Paulo, Brazil · React · JavaScript · LLM-assisted development</p>
 <h2>About</h2>
 <p>10+ years shipping digital products across design and engineering. My work sits at the intersection of Design Systems, component architecture, and AI-augmented workflows. Background includes Bradesco, Banco BRB, Natura &Co, and Toyota do Brasil — with a 144% ROI outcome on Natura's multi-brand design system within its first year.</p>
