@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=180&section=header&text=Gabriel%20Moreira&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Design%20Engineer%20%26%20Senior%20Product%20Designer&descAlignY=58&descSize=16" width="100%" alt="Gabriel Moreira" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=180&section=header&text=Gabriel%20Moreira&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Design%20Engineer%20%C2%B7%20Senior%20Product%20Designer&descAlignY=58&descSize=16" width="100%" alt="Gabriel Moreira" />
 
 <p align="center">
   <a href="https://gabrielmoreira.tech">
@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/gabrieltechdesign/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://gabrielmoreira.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:design.gabrielmoreira@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ogabrielmoreira&style=for-the-badge&color=7F5AF0&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ogabrielmoreira&style=for-the-badge&color=7F5AF0&label=PROFILE+VIEWS&abbreviated=true" alt="Profile views" />
 </p>
 
 ## 👋 About
