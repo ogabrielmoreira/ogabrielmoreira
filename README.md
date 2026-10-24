@@ -33,7 +33,7 @@ I bridge design and code: building scalable component libraries, enforcing WCAG 
 
 <p align="center">
 <!--SKILLS:START-->
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,html,css,tailwind,nodejs,figma,git,github,vercel,vscode,vite,vitest,supabase&perline=8&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,html,css,tailwind,nodejs,figma,git,github,vercel,vscode,java,bash,vite,vitest,supabase&perline=8&theme=dark" alt="Tech stack" />
 <!--SKILLS:END-->
 </p>
 
